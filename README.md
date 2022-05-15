@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Light Dark Theme](https://your-live-site-url.com)
+- Live Site URL: [Light Dark Theme](https://robertwalker68501.github.io/light-dark-mode/)
 
 ## My process
 
